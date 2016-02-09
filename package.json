@@ -13,5 +13,17 @@
     "jade": "~1.11.0",
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigottlaura/SSP-04-001-Express101.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Laura Pigott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pigottlaura/SSP-04-001-Express101/issues"
+  },
 }
